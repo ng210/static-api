@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "name": "Albedo",
+    "element": "geo",
+    "weapon": "sword",
+    "region": "Mondstadt",
+    "role": "Off-field DPS",
+    "rarity": 5,
+    "birthday": "September 13"
+  },
+  {
+    "id": 2,
+    "name": "Alhaitham",
+    "element": "dendro",
+    "weapon": "sword",
+    "region": "Sumeru",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "Februar 11"
+  },
+  {
+    "id": 3,
+    "name": "Aino",
+    "element": "hydro",
+    "weapon": "Claymore",
+    "region": "Snezhnaya",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "September 21"
+  },
+  {
+    "id": 4,
+    "name": "Amber",
+    "element": "pyro",
+    "weapon": "bow",
+    "region": "Mondstadt",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "August 10"
+  },
+  {
+    "id": 5,
+    "name": "Arlecchino",
+    "element": "pyro",
+    "weapon": "polearm",
+    "region": "Snezhnaya",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "August 22"
+  },
+  {
+    "id": 6,
+    "name": "Baizhu",
+    "element": "dendro",
+    "weapon": "catalyst",
+    "region": "Liyue",
+    "role": "Support",
+    "rarity": 5,
+    "birthday": "April 25"
+  },
+  {
+    "id": 7,
+    "name": "Bennett",
+    "element": "pyro",
+    "weapon": "sword",
+    "region": "Mondstadt",
+    "role": "Burst Support",
+    "rarity": 4,
+    "birthday": "Februar 29"
+  },
+  {
+    "id": 8,
+    "name": "Charlotte",
+    "element": "cryo",
+    "weapon": "catalyst",
+    "region": "Fontaine",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "April 10"
+  },
+  {
+    "id": 9,
+    "name": "Arataki Itto",
+    "element": "geo",
+    "weapon": "claymore",
+    "region": "Inazuma",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "June 1"
+  },
+  {
+    "id": 10,
+    "name": "Barbara",
+    "element": "hydro",
+    "weapon": "catalyst",
+    "region": "Mondstadt",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "July 5"
+  },
+  {
+    "id": 11,
+    "name": "Beidou",
+    "element": "electro",
+    "weapon": "claymore",
+    "region": "Liyue",
+    "role": "Off-field DPS",
+    "rarity": 4,
+    "birthday": "February 4"
+  },
+  {
+    "id": 12,
+    "name": "Candace",
+    "element": "hydro",
+    "weapon": "polearm",
+    "region": "Sumeru",
+    "role": "Burst Support",
+    "rarity": 4,
+    "birthday": "May 3"
+  },
+  {
+    "id": 13,
+    "name": "Chasca",
+    "element": "anemo",
+    "weapon": "bow",
+    "region": "Natlan",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "December 10"
+  },
+  {
+    "id": 14,
+    "name": "Chevreuse",
+    "element": "pyro",
+    "weapon": "polearm",
+    "region": "Fontaine",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "January 10"
+  },
+  {
+    "id": 15,
+    "name": "Chiori",
+    "element": "geo",
+    "weapon": "sword",
+    "region": "Inazuma",
+    "role": "Off-Field DPS",
+    "rarity": 5,
+    "birthday": "August 17"
+  },
+  {
+    "id": 16,
+    "name": "Chongyun",
+    "element": "cryo",
+    "weapon": "claymore",
+    "region": "Liyue",
+    "role": "Burst Support",
+    "rarity": 4,
+    "birthday": "September 7"
+  },
+  {
+    "id": 17,
+    "name": "Citlali",
+    "element": "cryo",
+    "weapon": "catalyst",
+    "region": "Natlan",
+    "role": "Support",
+    "rarity": 5,
+    "birthday": "Januar 20"
+  },
+  {
+    "id": 18,
+    "name": "Clorinde",
+    "element": "electro",
+    "weapon": "sword",
+    "region": "Fontaine",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "September 20"
+  },
+  {
+    "id": 19,
+    "name": "Collei",
+    "element": "dendro",
+    "weapon": "bow",
+    "region": "Sumeru",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "May 8"
+  },
+  {
+    "id": 20,
+    "name": "Columbina",
+    "element": "hydro",
+    "weapon": "catalyst",
+    "region": "Snezhnaya",
+    "role": "Off-Field DPS",
+    "rarity": 5,
+    "birthday": "January 14"
+  },
+  {
+    "id": 21,
+    "name": "Cyno",
+    "element": "electro",
+    "weapon": "polearm",
+    "region": "Sumeru",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "June 23"
+  },
+  {
+    "id": 22,
+    "name": "Dhalia",
+    "element": "hydro",
+    "weapon": "sword",
+    "region": "Mondstadt",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "May 25"
+  },
+  {
+    "id": 23,
+    "name": "Dehya",
+    "element": "pyro",
+    "weapon": "claymore",
+    "region": "Sumeru",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "April 7"
+  },
+  {
+    "id": 24,
+    "name": "Diluc",
+    "element": "pyro",
+    "weapon": "claymore",
+    "region": "Mondstadt",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "April 30"
+  },
+  {
+    "id": 25,
+    "name": "Diona",
+    "element": "cryo",
+    "weapon": "bow",
+    "region": "Mondstadt",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "January 18"
+  },
+  {
+    "id": 26,
+    "name": "Dori",
+    "element": "electro",
+    "weapon": "claymore",
+    "region": "Sumeru",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "December 21"
+  },
+  {
+    "id": 27,
+    "name": "Durin",
+    "element": "pyro",
+    "weapon": "sword",
+    "region": "Mondstadt",
+    "role": "Sub-DPS",
+    "rarity": 5,
+    "birthday": "March 14"
+  },
+  {
+    "id": 28,
+    "name": "Emilie",
+    "element": "dendro",
+    "weapon": "polearm",
+    "region": "Fontaine",
+    "role": "Off-Field DPS",
+    "rarity": 5,
+    "birthday": "September 22"
+  },
+  {
+    "id": 29,
+    "name": "Escoffier",
+    "element": "cryo",
+    "weapon": "polearm",
+    "region": "Fontaine",
+    "role": "Support",
+    "rarity": 5,
+    "birthday": "June 8"
+  },
+  {
+    "id": 30,
+    "name": "Eula",
+    "element": "cryo",
+    "weapon": "claymore",
+    "region": "Mondstadt",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "Oktober 25"
+  },
+  {
+    "id": 31,
+    "name": "Faruzan",
+    "element": "anemo",
+    "weapon": "bow",
+    "region": "Sumeru",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "August 20"
+  },
+  {
+    "id": 32,
+    "name": "Fischl",
+    "element": "electro",
+    "weapon": "bow",
+    "region": "Mondstadt",
+    "role": "Off-Field DPS",
+    "rarity": 4,
+    "birthday": "May 27"
+  },
+  {
+    "id": 33,
+    "name": "Flins",
+    "element": "electro",
+    "weapon": "polearm",
+    "region": "Snezhnaya",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "Oktober 31"
+  },
+  {
+    "id": 34,
+    "name": "Freminet",
+    "element": "cryo",
+    "weapon": "claymore",
+    "region": "Fontaine",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "September 24"
+  },
+  {
+    "id": 35,
+    "name": "Furina",
+    "element": "hydro",
+    "weapon": "sword",
+    "region": "Fontaine",
+    "role": "Sub-DPS",
+    "rarity": 5,
+    "birthday": "Oktober 13"
+  },
+  {
+    "id": 36,
+    "name": "Gaming",
+    "element": "pyro",
+    "weapon": "claymore",
+    "region": "Liyue",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "December 22"
+  },
+  {
+    "id": 37,
+    "name": "Ganyu",
+    "element": "cryo",
+    "weapon": "bow",
+    "region": "Liyue",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "December 2"
+  },
+  {
+    "id": 38,
+    "name": "Gorou",
+    "element": "geo",
+    "weapon": "bow",
+    "region": "Inazuma",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "May 18"
+  },
+  {
+    "id": 39,
+    "name": "Hu Tao",
+    "element": "pyro",
+    "weapon": "polearm",
+    "region": "Liyue",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "July 15"
+  },
+  {
+    "id": 40,
+    "name": "Iansan",
+    "element": "electro",
+    "weapon": "polearm",
+    "region": "Natlan",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "August 8"
+  },
+  {
+    "id": 41,
+    "name": "Ifa",
+    "element": "anemo",
+    "weapon": "catalyst",
+    "region": "Natlan",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "March 23"
+  },
+  {
+    "id": 42,
+    "name": "Illuga",
+    "element": "geo",
+    "weapon": "polearm",
+    "region": "Snezhnaya",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "December 23"
+  },
+  {
+    "id": 43,
+    "name": "Ineffa",
+    "element": "electro",
+    "weapon": "polearm",
+    "region": "Snezhnaya",
+    "role": "Off-Field DPS",
+    "rarity": 5,
+    "birthday": "April 2"
+  },
+  {
+    "id": 44,
+    "name": "Jahoda",
+    "element": "anemo",
+    "weapon": "bow",
+    "region": "Snezhnaya",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "January 5"
+  },
+  {
+    "id": 45,
+    "name": "Jean",
+    "element": "anemo",
+    "weapon": "sword",
+    "region": "Mondstadt",
+    "role": "Burst Support",
+    "rarity": 5,
+    "birthday": "March 14"
+  },
+  {
+    "id": 46,
+    "name": "Kachina",
+    "element": "geo",
+    "weapon": "polearm",
+    "region": "Natlan",
+    "role": "Sub-DPS",
+    "rarity": 4,
+    "birthday": "April 22"
+  },
+  {
+    "id": 47,
+    "name": "Kaedehara Kazuha",
+    "element": "anemo",
+    "weapon": "sword",
+    "region": "Inazuma",
+    "role": "Support",
+    "rarity": 5,
+    "birthday": "Oktober 29"
+  },
+  {
+    "id": 48,
+    "name": "Kaeya",
+    "element": "cryo",
+    "weapon": "sword",
+    "region": "Mondstadt",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "November 30"
+  },
+  {
+    "id": 49,
+    "name": "Kamisato Ayaka",
+    "element": "cryo",
+    "weapon": "sword",
+    "region": "Inazuma",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "September 28"
+  },
+  {
+    "id": 50,
+    "name": "Kamisato Ayato",
+    "element": "hydro",
+    "weapon": "sword",
+    "region": "Inazuma",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "March 26"
+  },
+  {
+    "id": 51,
+    "name": "Kaveh",
+    "element": "dendro",
+    "weapon": "claymore",
+    "region": "Sumeru",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "July 9"
+  },
+  {
+    "id": 52,
+    "name": "Keqing",
+    "element": "electro",
+    "weapon": "sword",
+    "region": "Liyue",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "November 20"
+  },
+  {
+    "id": 53,
+    "name": "Kinich",
+    "element": "dendro",
+    "weapon": "claymore",
+    "region": "Natlan",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "November 11"
+  },
+  {
+    "id": 54,
+    "name": "Kirara",
+    "element": "dendro",
+    "weapon": "sword",
+    "region": "Inazuma",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "January 22"
+  },
+  {
+    "id": 55,
+    "name": "Klee",
+    "element": "pyro",
+    "weapon": "catalyst",
+    "region": "Mondstadt",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "July 27"
+  },
+  {
+    "id": 56,
+    "name": "Kujuo Sara",
+    "element": "electro",
+    "weapon": "bow",
+    "region": "Inazuma",
+    "role": "Burst Support",
+    "rarity": 4,
+    "birthday": "July 14"
+  },
+  {
+    "id": 57,
+    "name": "Kuki Shinobu",
+    "element": "electro",
+    "weapon": "sword",
+    "region": "Inazuma",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "July 27"
+  },
+  {
+    "id": 58,
+    "name": "Lan Yan",
+    "element": "anemo",
+    "weapon": "catalyst",
+    "region": "Liyue",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "January 6"
+  },
+  {
+    "id": 59,
+    "name": "Lauma",
+    "element": "dendro",
+    "weapon": "catalyst",
+    "region": "Snezhnaya",
+    "role": "Support",
+    "rarity": 5,
+    "birthday": "March 1"
+  },
+  {
+    "id": 60,
+    "name": "Layla",
+    "element": "cryo",
+    "weapon": "sword",
+    "region": "Sumeru",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "December 19"
+  },
+  {
+    "id": 61,
+    "name": "Lisa",
+    "element": "electro",
+    "weapon": "catalyst",
+    "region": "Mondstadt",
+    "role": "Off-Field DPS",
+    "rarity": 4,
+    "birthday": "June 9"
+  },
+  {
+    "id": 62,
+    "name": "Lynette",
+    "element": "anemo",
+    "weapon": "sword",
+    "region": "Fontaine",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "February 2"
+  },
+  {
+    "id": 63,
+    "name": "Lyney",
+    "element": "pyro",
+    "weapon": "bow",
+    "region": "Fontaine",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "February 2"
+  },
+  {
+    "id": 64,
+    "name": "Mavuika",
+    "element": "pyro",
+    "weapon": "claymore",
+    "region": "Natlan",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "August 28"
+  },
+  {
+    "id": 65,
+    "name": "Mika",
+    "element": "cryo",
+    "weapon": "polearm",
+    "region": "Mondstadt",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "August 11"
+  },
+  {
+    "id": 66,
+    "name": "Mona",
+    "element": "hydro",
+    "weapon": "catalyst",
+    "region": "Mondstadt",
+    "role": "Burst Support",
+    "rarity": 5,
+    "birthday": "August 31"
+  },
+  {
+    "id": 67,
+    "name": "Mualani",
+    "element": "hydro",
+    "weapon": "catalyst",
+    "region": "Natlan",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "August 3"
+  },
+  {
+    "id": 68,
+    "name": "Nahida",
+    "element": "dendro",
+    "weapon": "catalyst",
+    "region": "Sumeru",
+    "role": "Off-Field DPS",
+    "rarity": 5,
+    "birthday": "October 27"
+  },
+  {
+    "id": 69,
+    "name": "Navia",
+    "element": "geo",
+    "weapon": "claymore",
+    "region": "Fontaine",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "August 16"
+  },
+  {
+    "id": 70,
+    "name": "Nefer",
+    "element": "dendro",
+    "weapon": "catalyst",
+    "region": "Snezhnaya",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "May 9"
+  },
+  {
+    "id": 71,
+    "name": "Neuvillette",
+    "element": "hydro",
+    "weapon": "catalyst",
+    "region": "Fontaine",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "December 18"
+  },
+  {
+    "id": 72,
+    "name": "Nilou",
+    "element": "hydro",
+    "weapon": "sword",
+    "region": "Sumeru",
+    "role": "Off-Field DPS",
+    "rarity": 5,
+    "birthday": "December 3"
+  },
+  {
+    "id": 73,
+    "name": "Ningguang",
+    "element": "geo",
+    "weapon": "catalyst",
+    "region": "Liyue",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "August 26"
+  },
+  {
+    "id": 74,
+    "name": "Noelle",
+    "element": "geo",
+    "weapon": "claymore",
+    "region": "Mondstadt",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "March 21"
+  },
+  {
+    "id": 75,
+    "name": "Ororon",
+    "element": "electro",
+    "weapon": "bow",
+    "region": "Natlan",
+    "role": "Sub-DPS",
+    "rarity": 4,
+    "birthday": "October 14"
+  },
+  {
+    "id": 76,
+    "name": "Qiqi",
+    "element": "cryo",
+    "weapon": "sword",
+    "region": "Liyue",
+    "role": "Support",
+    "rarity": 5,
+    "birthday": "March 3"
+  },
+  {
+    "id": 77,
+    "name": "Raiden Shogun",
+    "element": "electro",
+    "weapon": "polearm",
+    "region": "Inazuma",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "June 26"
+  },
+  {
+    "id": 78,
+    "name": "Razor",
+    "element": "electro",
+    "weapon": "claymore",
+    "region": "Mondstadt",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "September 9"
+  },
+  {
+    "id": 79,
+    "name": "Rosaria",
+    "element": "cryo",
+    "weapon": "polearm",
+    "region": "Mondstadt",
+    "role": "Burst Support",
+    "rarity": 4,
+    "birthday": "January 24"
+  },
+  {
+    "id": 80,
+    "name": "Sangonomiya Kokomi",
+    "element": "hydro",
+    "weapon": "catalyst",
+    "region": "Inazuma",
+    "role": "Support",
+    "rarity": 5,
+    "birthday": "February 22"
+  },
+  {
+    "id": 81,
+    "name": "Sayu",
+    "element": "anemo",
+    "weapon": "claymore",
+    "region": "Inazuma",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "October 19"
+  },
+  {
+    "id": 82,
+    "name": "Sethos",
+    "element": "electro",
+    "weapon": "bow",
+    "region": "Sumeru",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "May 31"
+  },
+  {
+    "id": 83,
+    "name": "Shenhe",
+    "element": "cryo",
+    "weapon": "polearm",
+    "region": "Liyue",
+    "role": "Support",
+    "rarity": 5,
+    "birthday": "March 10"
+  },
+  {
+    "id": 84,
+    "name": "Shikanoin Heizou",
+    "element": "anemo",
+    "weapon": "catalyst",
+    "region": "Inazuma",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "July 24"
+  },
+  {
+    "id": 85,
+    "name": "Sigewinne",
+    "element": "hydro",
+    "weapon": "bow",
+    "region": "Fontaine",
+    "role": "Support",
+    "rarity": 5,
+    "birthday": "March 30"
+  },
+  {
+    "id": 86,
+    "name": "Skirk",
+    "element": "cryo",
+    "weapon": "sword",
+    "region": "Another World",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "November 5"
+  },
+  {
+    "id": 87,
+    "name": "Sucrose",
+    "element": "anemo",
+    "weapon": "catalyst",
+    "region": "Mondstadt",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "November 26"
+  },
+  {
+    "id": 88,
+    "name": "Tartaglia",
+    "element": "hydro",
+    "weapon": "bow",
+    "region": "Snezhnaya",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "July 20"
+  },
+  {
+    "id": 89,
+    "name": "Thoma",
+    "element": "pyro",
+    "weapon": "polearm",
+    "region": "Inazuma",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "January 9"
+  },
+  {
+    "id": 90,
+    "name": "Tighnari",
+    "element": "dendro",
+    "weapon": "bow",
+    "region": "Sumeru",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "December 29"
+  },
+  {
+    "id": 91,
+    "name": "Varesa",
+    "element": "electro",
+    "weapon": "catalyst",
+    "region": "Natlan",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "November 15"
+  },
+  {
+    "id": 92,
+    "name": "Varka",
+    "element": "anemo",
+    "weapon": "claymore",
+    "region": "Mondstadt",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "February 17"
+  },
+  {
+    "id": 93,
+    "name": "Venti",
+    "element": "anemo",
+    "weapon": "bow",
+    "region": "Mondstadt",
+    "role": "Off-Field DPS",
+    "rarity": 5,
+    "birthday": "June 16"
+  },
+  {
+    "id": 94,
+    "name": "Wanderer",
+    "element": "anemo",
+    "weapon": "catalyst",
+    "region": "Sumeru",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "January 3"
+  },
+  {
+    "id": 95,
+    "name": "Wriothesley",
+    "element": "cryo",
+    "weapon": "catalyst",
+    "region": "Fontaine",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "November 23"
+  },
+  {
+    "id": 96,
+    "name": "Xiangling",
+    "element": "pyro",
+    "weapon": "polearm",
+    "region": "Liyue",
+    "role": "Off-Field DPS",
+    "rarity": 4,
+    "birthday": "November 2"
+  },
+  {
+    "id": 97,
+    "name": "Xianyun",
+    "element": "anemo",
+    "weapon": "catalyst",
+    "region": "Liyue",
+    "role": "Support",
+    "rarity": 5,
+    "birthday": "April 11"
+  },
+  {
+    "id": 98,
+    "name": "Xiao",
+    "element": "anemo",
+    "weapon": "polearm",
+    "region": "Liyue",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "April 17"
+  },
+  {
+    "id": 99,
+    "name": "Xilonen",
+    "element": "geo",
+    "weapon": "sword",
+    "region": "Natlan",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "March 13"
+  },
+  {
+    "id": 100,
+    "name": "Xingqiu",
+    "element": "hydro",
+    "weapon": "sword",
+    "region": "Liyue",
+    "role": "Off-Field DPS",
+    "rarity": 4,
+    "birthday": "Oktober 9"
+  },
+  {
+    "id": 101,
+    "name": "Xinyan",
+    "element": "pyro",
+    "weapon": "claymore",
+    "region": "Liyue",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "Oktober 16"
+  },
+  {
+    "id": 102,
+    "name": "Yae Miko",
+    "element": "electro",
+    "weapon": "catalyst",
+    "region": "Inazuma",
+    "role": "Off-Field DPS",
+    "rarity": 5,
+    "birthday": "June 27"
+  },
+  {
+    "id": 103,
+    "name": "Yanfei",
+    "element": "pyro",
+    "weapon": "catalyst",
+    "region": "Liyue",
+    "role": "DPS",
+    "rarity": 4,
+    "birthday": "July 28"
+  },
+  {
+    "id": 104,
+    "name": "Yaoyao",
+    "element": "dendro",
+    "weapon": "polearm",
+    "region": "Liyue",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "March 6"
+  },
+  {
+    "id": 105,
+    "name": "Yelan",
+    "element": "hydro",
+    "weapon": "bow",
+    "region": "Liyue",
+    "role": "Off-Field DPS",
+    "rarity": 5,
+    "birthday": "April 20"
+  },
+  {
+    "id": 106,
+    "name": "Yoimiya",
+    "element": "pyro",
+    "weapon": "bow",
+    "region": "Inazuma",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "June 21"
+  },
+  {
+    "id": 107,
+    "name": "Yumemizuki Mizuki",
+    "element": "anemo",
+    "weapon": "catalyst",
+    "region": "Inazuma",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "March 16"
+  },
+  {
+    "id": 108,
+    "name": "Yun Jin",
+    "element": "geo",
+    "weapon": "polearm",
+    "region": "Liyue",
+    "role": "Support",
+    "rarity": 4,
+    "birthday": "May 21"
+  },
+  {
+    "id": 109,
+    "name": "Zhongli",
+    "element": "geo",
+    "weapon": "polearm",
+    "region": "Liyue",
+    "role": "Burst Support",
+    "rarity": 5,
+    "birthday": "December 31"
+  },
+  {
+    "id": 110,
+    "name": "Zibai",
+    "element": "geo",
+    "weapon": "sword",
+    "region": "Liyue",
+    "role": "DPS",
+    "rarity": 5,
+    "birthday": "May 15"
+  }
+]
