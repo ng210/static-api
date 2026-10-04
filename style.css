@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 14pt;
+    font-family: monospace;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 2rem;
+    background: radial-gradient(at center, #142, #000);
+    color: #8fac;
+    text-shadow: 2px 1px 4px #fff8;
+}
+
+header>h1 {
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+}

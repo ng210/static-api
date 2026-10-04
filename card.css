@@ -1,0 +1,40 @@
+db-card {
+    display: block;
+    width: 12rem;
+    border: 3px ridge #cef8;
+    border-radius: 1rem;
+    overflow: hidden;
+    color: black;
+}
+
+db-card>h1{
+    font-size: 1.5rem;
+    text-align: center;
+    border-bottom: 3px groove #ccc8;
+    margin: 0;
+    background-color: #fff8;
+    color: #000c;
+}
+
+db-card>ul {
+    margin: 0.5em 0em;
+    padding: 0rem;
+}
+
+db-card li {
+    list-style: none;
+    padding-left: 1rem;
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+}
+
+db-card li>a {
+    display: inline-block;
+    width: 100%;
+    text-decoration: none;
+    color: #000c;
+}
+
+db-card li:hover {
+    background-color: #fff8;
+}
