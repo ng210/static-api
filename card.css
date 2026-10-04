@@ -1,6 +1,7 @@
 db-card {
     display: block;
     width: 12rem;
+    height: 9rem;
     border: 3px ridge #cef8;
     border-radius: 1rem;
     overflow: hidden;
@@ -8,11 +9,11 @@ db-card {
 }
 
 db-card>h1{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     text-align: center;
     border-bottom: 3px groove #ccc8;
     margin: 0;
-    background-color: #fff8;
+    background: linear-gradient(to left, #fff8, #fff2, #fffc);
     color: #000c;
 }
 
